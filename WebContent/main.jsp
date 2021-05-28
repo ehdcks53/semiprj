@@ -8,7 +8,11 @@
 </head>
 <body>
 <h1>세미프로젝트....</h1>
+<<<<<<< HEAD
 <h2>ㅇㄹㅇ ㅇㄹㅇ</h2>
 
+=======
+hello hello
+>>>>>>> branch 'master' of https://github.com/ehdcks53/semiprj.git
 </body>
 </html>
