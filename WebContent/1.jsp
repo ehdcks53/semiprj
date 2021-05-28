@@ -4,11 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>main.jsp</title>
+<title>Insert title here</title>
 </head>
 <body>
-<h1>세미프로젝트....</h1>
-<h2>ㅇㄹㅇ ㅇㄹㅇ</h2>
-
+안녕
 </body>
 </html>
